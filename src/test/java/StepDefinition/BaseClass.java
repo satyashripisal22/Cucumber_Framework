@@ -25,4 +25,5 @@ public class BaseClass {
 	public String generateEmailId() {
 		return(RandomStringUtils.randomAlphabetic(5));
 	}
+	//This is demo for git to show its new branch
 }
