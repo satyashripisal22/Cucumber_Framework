@@ -191,3 +191,61 @@
 [INFO ] 2024-06-01 20:23:38.925 [main] StepDef - User launch Chrome Browser successfully
 [INFO ] 2024-06-01 20:23:42.231 [main] StepDef - Url Opened
 [INFO ] 2024-06-01 20:23:43.026 [main] StepDef - EmailID and password entered
+[INFO ] 2024-06-13 12:53:10.326 [main] StepDef - Setup1 executed...
+[INFO ] 2024-06-13 12:53:10.481 [main] StepDef - User launch Chrome Browser successfully
+[INFO ] 2024-06-13 12:53:14.600 [main] StepDef - Url Opened
+[INFO ] 2024-06-13 12:53:15.407 [main] StepDef - EmailID and password entered
+[INFO ] 2024-06-13 12:53:32.462 [main] StepDef - login button clicked
+[INFO ] 2024-06-13 12:53:32.993 [main] StepDef - Test passed:Login feature : page title matched
+[INFO ] 2024-06-13 12:53:38.087 [main] StepDef - user clicked on logout link
+[INFO ] 2024-06-13 12:53:38.198 [main] StepDef - Test passed:Login feature : page title matched
+[INFO ] 2024-06-13 12:53:39.481 [main] StepDef - Browser closed
+[INFO ] 2024-06-13 12:57:53.331 [main] StepDef - Setup1 executed...
+[INFO ] 2024-06-13 12:57:53.669 [main] StepDef - User launch Chrome Browser successfully
+[INFO ] 2024-06-13 12:57:57.518 [main] StepDef - Url Opened
+[INFO ] 2024-06-13 12:57:58.535 [main] StepDef - EmailID and password entered
+[INFO ] 2024-06-13 12:58:10.116 [main] StepDef - login button clicked
+[INFO ] 2024-06-13 12:58:13.119 [main] StepDef - Test passed:Login feature : page title matched
+[INFO ] 2024-06-13 12:58:17.356 [main] StepDef - user clicked on logout link
+[INFO ] 2024-06-13 12:58:17.425 [main] StepDef - Test passed:Login feature : page title matched
+[INFO ] 2024-06-13 12:58:17.907 [main] StepDef - Browser closed
+[INFO ] 2024-06-13 13:07:40.551 [main] StepDef - Setup1 executed...
+[INFO ] 2024-06-13 13:07:40.717 [main] StepDef - User launch Chrome Browser successfully
+[INFO ] 2024-06-13 13:07:46.773 [main] StepDef - Url Opened
+[INFO ] 2024-06-13 13:07:47.720 [main] StepDef - EmailID and password entered
+[INFO ] 2024-06-13 13:08:43.024 [main] StepDef - login button clicked
+[INFO ] 2024-06-13 13:08:43.560 [main] StepDef - Test passed:Login feature : page title matched
+[INFO ] 2024-06-13 13:08:47.986 [main] StepDef - user clicked on logout link
+[INFO ] 2024-06-13 13:08:48.072 [main] StepDef - Test passed:Login feature : page title matched
+[INFO ] 2024-06-13 13:08:48.516 [main] StepDef - Browser closed
+[INFO ] 2024-06-15 14:21:49.967 [main] StepDef - Setup1 executed...
+[INFO ] 2024-06-15 14:21:50.087 [main] StepDef - User launch Chrome Browser successfully
+[INFO ] 2024-06-15 14:22:51.163 [main] StepDef - Url Opened
+[INFO ] 2024-06-15 14:22:51.797 [main] StepDef - EmailID and password entered
+[INFO ] 2024-06-15 14:23:44.191 [main] StepDef - login button clicked
+[INFO ] 2024-06-15 14:23:44.224 [main] StepDef - Test passed:Login feature : page title matched
+[INFO ] 2024-06-15 14:24:03.509 [main] StepDef - user clicked on logout link
+[INFO ] 2024-06-15 14:24:03.633 [main] StepDef - Test passed:Login feature : page title matched
+[INFO ] 2024-06-15 14:24:06.659 [main] StepDef - Browser closed
+[INFO ] 2024-06-16 12:44:12.171 [main] StepDef - Setup1 executed...
+[INFO ] 2024-06-16 12:44:12.264 [main] StepDef - User launch Chrome Browser successfully
+[INFO ] 2024-06-16 12:44:20.409 [main] StepDef - Url Opened
+[INFO ] 2024-06-16 12:44:21.592 [main] StepDef - EmailID and password entered
+[INFO ] 2024-06-16 12:44:43.547 [main] StepDef - login button clicked
+[INFO ] 2024-06-16 12:44:43.600 [main] StepDef - Test passed:Login feature : page title matched
+[INFO ] 2024-06-16 12:44:53.413 [main] StepDef - user clicked on logout link
+[INFO ] 2024-06-16 12:44:53.525 [main] StepDef - Test passed:Login feature : page title matched
+[INFO ] 2024-06-16 12:44:53.936 [main] StepDef - Browser closed
+[INFO ] 2024-06-16 13:25:56.833 [main] StepDef - Setup1 executed...
+[INFO ] 2024-06-16 13:25:57.059 [main] StepDef - User launch Chrome Browser successfully
+[INFO ] 2024-06-16 13:26:00.269 [main] StepDef - Url Opened
+[INFO ] 2024-06-16 13:26:01.562 [main] StepDef - EmailID and password entered
+[INFO ] 2024-06-16 13:51:39.173 [main] StepDef - Setup1 executed...
+[INFO ] 2024-06-16 13:51:39.350 [main] StepDef - User launch Chrome Browser successfully
+[INFO ] 2024-06-16 13:51:43.061 [main] StepDef - Url Opened
+[INFO ] 2024-06-16 13:51:43.969 [main] StepDef - EmailID and password entered
+[INFO ] 2024-06-16 13:54:14.760 [main] StepDef - login button clicked
+[INFO ] 2024-06-16 13:54:14.784 [main] StepDef - Test passed:Login feature : page title matched
+[INFO ] 2024-06-16 13:54:20.123 [main] StepDef - user clicked on logout link
+[INFO ] 2024-06-16 13:54:20.149 [main] StepDef - Test passed:Login feature : page title matched
+[INFO ] 2024-06-16 13:54:20.420 [main] StepDef - Browser closed
